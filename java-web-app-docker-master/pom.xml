@@ -102,12 +102,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.176.203.101:8081/repository/4112333552-release/</url>
+	      <url>http://43.205.114.20:8081/repository/4112333552-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.176.203.101:8081/repository/dhdvhffvfgf-snapshot/</url>
+	      <url>http://43.205.114.20:8081/repository/dhdvhffvfgf-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
